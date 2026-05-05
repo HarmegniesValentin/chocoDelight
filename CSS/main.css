@@ -1,0 +1,165 @@
+#logoChoco
+{
+    width: 150px;
+    height: auto;
+    margin-left: 25%;
+}
+#bandeauPromo
+{
+    background-color: #713600;
+    color: whitesmoke;
+    font-size: 35px;
+    text-align: center;
+    margin: 0;
+}
+#navChoco
+{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+nav
+{
+    font-size: 50px;
+    align-items: center;
+    display: flex;
+    gap: 70px;
+    margin-left: 10%;
+    margin-right: 15%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+#robertDescription
+{
+    background-color: #713600;
+    display: flex;
+}
+#robertChoco
+{
+    width: 30%;
+    height: auto;
+}
+#texteDescriptionRobert
+{
+    color: whitesmoke;
+    margin: 5% 5%;
+    text-decoration: none;
+}
+h1
+{
+    font-size: 300%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+#incroyableRobert
+{
+    font-size: 150%;
+}
+a{
+    text-decoration: none;
+}
+.textNoir
+{
+    color: black;
+}
+.textBlanc
+{
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h2
+{
+    font-size: 350%;
+    text-align: center;
+}
+.imgArticleChoco
+{
+    width: 60%;
+    margin-left: 20%;
+}
+#articlesChocoDelight
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-content: center;
+}
+h3
+{
+    font-size: 170%;
+    text-align: center;
+}
+.descriptionArticleChoco
+{
+    font-size: 90%;
+    margin-left: 20%;
+}
+#fabricationChoco
+{
+    background-color: #713600;
+    display: flex;
+    margin-top: 3%;
+}
+#atelierChoco
+{
+    width: 30%;
+    height: auto;
+}
+.descriptionAtelier
+{
+    margin: 5% 5%;
+    font-size: 180%;
+}
+#texteDescriptionAtelier
+{
+    color:whitesmoke;
+    margin-top: 4%;
+}
+#contactChoco
+{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align: center;
+    gap: 10px;
+}
+#footerChoco
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 1% 5%;
+}
+#reseauxChoco
+{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align: right;
+    gap: 10px;
+}
+#copyrightChoco
+{
+    background-color: #713600;
+    color: whitesmoke;
+    text-align: center;
+    margin:0;
+    padding: 15px 0;
+    font-size: 25px;
+}
+.separationArticle
+{
+    background-color: #713600;
+    padding: 10px 0;
+}
+.imgBoutiqueChoco
+{
+    width: 30%;
+    height: auto;
+}
+.sectionBoutiqueChoco
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 5% 2%;
+    text-align: center;
+}
